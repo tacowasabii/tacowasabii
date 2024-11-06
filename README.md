@@ -4,4 +4,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tacowasabii&layout=compact">
 
-[![Rallit Resume](https://img.shields.io/badge/Rallit-Resume-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.rallit.com/hub/resumes/73290)
+[![Rallit Resume](https://img.shields.io/badge/Rallit-Resume-blue?style=flat&logo=https://cdn.rallit.com/image/favicon.ico)](https://www.rallit.com/hub/resumes/73290)
